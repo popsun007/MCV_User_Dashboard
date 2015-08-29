@@ -1,0 +1,24 @@
+.navbar {
+	color: white;
+/*  background-color:darkgrey;
+  background-image: none;
+  background-repeat: no-repeat;
+  margin-bottom: 500px;*/
+ }
+ .test
+ {
+ 	margin-top: 50px;
+ 	background-color: red;
+ }
+ .footer
+ { 
+ 	position: fixed;
+ 	width: 100%;
+	bottom:0;
+	left: 15px;
+ }
+ .well
+{
+	background: #383838;
+	color: white;
+}
